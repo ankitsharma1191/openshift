@@ -1,6 +1,8 @@
 #!/bin/bash
 
-## see: https://youtu.be/aqXSbDZggK4
+## Author: Ankit Sharma
+## Date: 7-7-2020
+## description: This script will setup openshift 
 
 ## Default variables to use
 export INTERACTIVE=${INTERACTIVE:="true"}
